@@ -1,2 +1,4 @@
 # CS171PFinals
-The final project.
+Youtube link: https://youtu.be/CaNT0TSnINI
+
+Project theme: Ship in the Sea.
